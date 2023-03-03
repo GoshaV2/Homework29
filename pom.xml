@@ -27,7 +27,7 @@
 
   </dependencies>
   <build>
-    <finalName>Course3_JDBC</finalName>
+    <finalName>JDBC</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
